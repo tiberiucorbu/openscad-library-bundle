@@ -7,9 +7,9 @@
 [submodule "NopSCADlib"]
 	path = NopSCADlib
 	url = git@github.com:nophead/NopSCADlib.git
-[submodule "scad-utils"]
-	path = scad-utils
-	url = git@github.com:OskarLinde/scad-utils.git
 [submodule "list-comprehension-demos"]
 	path = list-comprehension-demos
 	url = git@github.com:openscad/list-comprehension-demos.git
+[submodule "threadlib"]
+	path = threadlib
+	url = git@github.com:adrianschlatter/threadlib.git
