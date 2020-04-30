@@ -15,14 +15,14 @@ then run
 
 ## Included libraries 
 
-	- MCAD
-	  git@github.com:openscad/MCAD.git
+ - MCAD
+   git@github.com:openscad/MCAD.git
 
-        - NopSCADlib
-	  git@github.com:nophead/NopSCADlib.git
+ - NopSCADlib
+   git@github.com:nophead/NopSCADlib.git
 
-	- scad-utils
-	  git@github.com:OskarLinde/scad-utils.git
+ - scad-utils
+   git@github.com:OskarLinde/scad-utils.git
 
-	- list-comprehension-demos
-	  git@github.com:openscad/list-comprehension-demos.git
+ - list-comprehension-demos
+   git@github.com:openscad/list-comprehension-demos.git
