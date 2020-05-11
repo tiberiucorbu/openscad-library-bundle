@@ -13,3 +13,6 @@
 [submodule "threadlib"]
 	path = threadlib
 	url = git@github.com:adrianschlatter/threadlib.git
+[submodule "scad-utils"]
+	path = scad-utils
+	url = git@github.com:openscad/scad-utils.git
